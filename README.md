@@ -16,6 +16,8 @@ Units Sold: The total number of units sold.
 
 ### Business Use Cases
 
+![Business Requirements Document](https://github.com/Kaushik-Puttaswamy/Amazon-Sales-Dashboard-Using-Tableau/blob/main/Business%20Requirements%20Document.PNG)
+
 #### 1. Profit Analysis by Region
 Objective: To evaluate the profitability across different global regions.
 Visualization: A bar chart displays profit distribution by region, highlighting the most and least profitable areas.
